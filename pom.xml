@@ -50,6 +50,11 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.5.8</version>
         </dependency>
+        <dependency>
+            <groupId>net.sf.jsqlparser</groupId>
+            <artifactId>jsqlparser</artifactId>
+            <version>0.7.0</version>
+        </dependency>
 
         <dependency>
             <groupId>log4j</groupId>
